@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tempates</h1>
 <h3 align="center">The Industrial Revolution and its consequences have been a disaster for the human race.</h3>
 
-- 🔭 I’m currently working on [VenaCava-037](https://github.com/Tempates/Vena-Cava-037)
+<p align=center>- 🔭 I’m currently working on [VenaCava-037](https://github.com/Tempates/Vena-Cava-037)</p>
 
-- 🌱 I’m currently learning **Python**
+<p align=center>- 🌱 I’m currently learning **Python**</p>
 
-- ⚡ Fun fact **pigs cant fly**
+<p align=center>- ⚡ Fun fact **pigs cant fly**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +15,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tempates&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="tempates" /></p>
+<p><img align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=tempates&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="tempates" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tempates&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&locale=en" alt="tempates" /></p>
+<p>&nbsp;<img align=center src="https://github-readme-stats.vercel.app/api?username=tempates&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&locale=en" alt="tempates" /></p>
