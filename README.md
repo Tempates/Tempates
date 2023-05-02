@@ -15,8 +15,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tempates&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="tempates" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tempates&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&locale=en&layout=compact" alt="tempates" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tempates&show_icons=true&theme=dark&hide_border=true&locale=en" alt="tempates" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tempates&theme=dark" alt="tempates" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tempates&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&locale=en" alt="tempates" /></p>
