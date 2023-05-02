@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tempates</h1>
 <h3 align="center">The Industrial Revolution and its consequences have been a disaster for the human race.</h3>
 
-<p align=center>- 🔭 I’m currently working on [VenaCava-037](https://github.com/Tempates/Vena-Cava-037)</p>
+<div align="center">
+- 🔭 I’m currently working on [VenaCava-037](https://github.com/Tempates/Vena-Cava-037)
 
-<p align=center>- 🌱 I’m currently learning **Python**</p>
+- 🌱 I’m currently learning **Python**
 
-<p align=center>- ⚡ Fun fact **pigs cant fly**</p>
+- ⚡ Fun fact **pigs cant fly**
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
